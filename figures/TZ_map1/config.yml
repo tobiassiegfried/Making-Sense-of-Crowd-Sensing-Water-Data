@@ -1,5 +1,9 @@
-version: 1
+---
 multicolumn: false
+export-width: 
 web-width: 500px
 align: center
 float: h!
+export-filename: 
+version: 1
+path: figures/TZ_map1/config.yml
