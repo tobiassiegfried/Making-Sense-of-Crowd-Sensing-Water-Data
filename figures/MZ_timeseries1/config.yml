@@ -1,5 +1,9 @@
-version: 1
+---
 multicolumn: false
-web-width: 500px
+export-width: 
+web-width: 500
 align: center
 float: h!
+export-filename: 
+version: 1
+path: figures/MZ_timeseries1/config.yml
