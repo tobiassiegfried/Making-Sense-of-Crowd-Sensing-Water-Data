@@ -1,9 +1,20 @@
 ---
+version: 2
 multicolumn: false
-export-width: 
 web-width: 800
+export-width: 
 align: center
 float: h!
-export-filename: 
-version: 1
-path: figures/MZ_timeseries1/config.yml
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/153149/articles/167393/master/file/figures/MZ_timeseries1/MZ_timeseries1.png"
+    path: figures/MZ_timeseries1/MZ_timeseries1.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
